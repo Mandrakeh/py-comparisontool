@@ -8,4 +8,4 @@ Integrantes
 Aportes:
 |Integrante | Aporte |
 |-----------|--------|
-|Franco Duarte | Codigo, Repositorio, README|
+|Franco Duarte | Codigo, Repositorio, README, Documento LaTeX|
